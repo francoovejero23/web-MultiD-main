@@ -22,13 +22,13 @@ h1{
  }
 
 body{
-    background-image: url("../img/fondo.png");
+    background-image: url("../img/fondo\ logo.png");
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment: fixed;
     height: 20em;
     font-family: sans-serif; 
-    padding: 90px 20px 0;  
+    /* padding: 90px 20px 0;   */
 }
 
 .header{
